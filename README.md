@@ -1,4 +1,4 @@
-![Hi, My name is Vinay Kumar](https://ibb.co/PYV3ZKx)
+![Hi, My name is Vinay Kumar]([https://ibb.co/PYV3ZKx](https://www.imghippo.com/i/MIqKd1727776742.png))
 
 
 
@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning Development and Machine Learning, Deep learning
 - 📫 How to reach me:https://www.linkedin.com/in/vinay-mahto-2b7a881a7/
+- 📫Email :- vinay.mahto555@gmail.com
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I am currently exploring a Spiritual Path✨ (and sharing it on social media too!)
 
